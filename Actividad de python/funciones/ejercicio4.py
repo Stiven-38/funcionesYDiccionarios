@@ -15,7 +15,7 @@ def compra(marca, cantidad, valor):
 print(f' lo comprado fue:{compra("AMD",3,2500000)}')
 
 
-#Funciones con Parámetros Nominales
+#Funciones con Parametros Nominales
 
 # Definicion de la funcion compra
 # El codigo define una función llamada compra que toma tres parámetros marca cantidad y valor
