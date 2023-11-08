@@ -5,5 +5,5 @@ print("Números en reversa")
 #range(1, 10, 2) genera una secuencia de números desde 1 hasta 9 con un paso de 2 Esto significa que se generarán los números impares del 1 al 9.
 for i in reversed(range(1, 10, 2)):
 
- print(i)
- #Imprime numeros en orden inverso 
+    print(i)
+#Imprime numeros en orden inverso 

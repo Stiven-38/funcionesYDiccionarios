@@ -6,4 +6,4 @@ diccionario = dict()
 diccionario= {}
 
 # Creación de un diccionario llamado 'Diccionario' con dos pares clave-valor
-Diccionario = {'nombre':'Sandra', 'edad': 44}
+Diccionario = {'nombre':'stiven', 'edad': 18}

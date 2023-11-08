@@ -1,6 +1,6 @@
 # Definición de dos listas, una con nombres y la otra con edades
-nombres = ['Maria', 'Sebastian', 'Ana']
-edades = ['18', '25', '30']
+nombres = ['stiven', 'marlon', 'camilo']
+edades = ['18', '19', '17']
 
 # Inicia un bucle 'for' que combina elementos de ambas listas y muestra un mensaje formateado zip para combinar elementos de las listas "nombres" y "edades. Esto significa que en cada iteración, "n" tomara un nombre de la lista "nombres" y "e" tomará la edad correspondiente de la lista "edades".
 

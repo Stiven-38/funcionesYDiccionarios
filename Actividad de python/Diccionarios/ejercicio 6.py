@@ -1,10 +1,10 @@
 # BORRAR UN ELEMENTO DEL DICCIONARIO
 # Creación de un diccionario llamado calificaciones con varios pares clave-valor
 calificaciones = {
-    'Sandra': 5.0,
-    'Adriana': 4.5,
-    'Mauricio': 3.0,
-    'Jose': 2.5
+    'camilo': 5.0,
+    'Andrea': 4.5,
+    'Felipe': 3.0,
+    'Cristian': 2.5
 }
 
 

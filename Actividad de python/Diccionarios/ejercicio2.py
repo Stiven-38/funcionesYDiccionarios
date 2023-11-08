@@ -1,6 +1,6 @@
 #Accediendo a los elementos de un diccionario
 # Creacion de un diccionario llamado 'Diccionario' con dos pares clave-valor
-Diccionario = {'nombre': 'Sandra', 'edad': 44}
+Diccionario = {'nombre': 'Stiven', 'edad': 18}
 
 # Imprime el valor asociado a la clave 'nombre' en el diccionario 'Diccionario'
 print(Diccionario['nombre'])

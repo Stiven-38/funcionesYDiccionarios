@@ -6,11 +6,11 @@ calificaciones.update({"Rosa": 3.7, "German": 4.8})
 
 
 #Tecnicas de iteracion
- #Esto marca el inicio de la creación del diccionario "calificaciones utilizando llaves.
+#Esto marca el inicio de la creación del diccionario "calificaciones utilizando llaves.
 calificaciones = {
- 
+
 #Se agrega el primer par clave-valor al diccionario. La clave es "nombre" y el valor es "Sandra". 
-'nombre': 'Sandra',
+'nombre': 'Stiven',
 #Se agrega el segundo par clave-valor al diccionario. La clave es "notafinal" y el valor es 5.0. Esto podría representar la calificación final de alguna evaluacion
 'notafinal': 5.0
 
@@ -18,10 +18,10 @@ calificaciones = {
 
 # Creación de un diccionario llamado 'calificaciones' con varios pares clave-valor
 calificaciones = {
-    'Sandra': 5.0,
-    'Adriana': 5.0,
-    'Mauricio': 4.5,
-    'Jose': 2.5
+    'Stiven': 5.0,
+    'vanesa': 5.0,
+    'Marlon': 4.5,
+    'camila': 2.5
 }
 # Itera a través de los elementos (claves y valores) del diccionario 'calificaciones' y los almacena en las variables i y j
 for i, j in calificaciones.items():
@@ -49,5 +49,4 @@ print("Iterar por valor")
 #Inicia un bucle for que recorre los valores del diccionario "calificaciones" utilizando el metodo values(). Esto significa que "j" tomará el valor de cada valor en el diccionario en cada iteración.
 for j in calificaciones.values():
 #en cada iteración del bucle, se imprime el valor (almacenado en la variable "j"). Esto muestra en la salida todos los valores contenidos en el diccionario "calificaciones".
- print(j)
- 
+    print(j)
